@@ -1,0 +1,24 @@
+Descrição: adicionar ao repositório um arquivo de 
+texto onde será adicionado título e na linha de baixo um parágrafo.
+
+Etapas
+1- Criar uma branch com nome: "arquivo-texto"
+2- Criar um arquivo de texto com a opção 'create new file' 
+3- Nomear o arquivo com "texto.txt"
+    3.1- Dentro do arquivo escrever "Título:"
+    3.2- Dentro do arquivo escrever "Parágrafo:"
+4- Fazer commit na branch 'arquivo-texto' com a 
+   mensagem "arquivo de texto adicionado"
+5- Editar o arquivo de texto com a opção 'edit file'
+    5.1- Adicionar um título ao texto. Exemplo: "Título do texto"
+    5.2- Fazer commit na branch 'arquivo-texto' com 
+    a mensagem "adicionado titulo ao texto"
+6- Editar o arquivo de texto com a opção 'edit file'
+    6.1- Adicionar um texto ao parágrafo do texto. 
+    Exemplo: "lorem ipsum lorem ipsum lorem ipsum"
+    6.2- Fazer commit na branch 'arquivo-texto' com 
+    a mensagem "adicionado o paragrafo"
+7- Criar um pull request com base main e compare da branch 
+criada anteriormente com o nome "Criado e modificado o arquivo de texto"
+5- Fazer e confirmar merge
+6- Deletar branch criada

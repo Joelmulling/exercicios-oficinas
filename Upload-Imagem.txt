@@ -1,0 +1,13 @@
+Descrição: adicionar ao repositório uma imagem baixada 
+do site pexels seguindo os conceitos aprendidos até agora.
+
+Etapas
+1- Baixar uma imagem .jpg do site https://www.pexels.com/pt-br/
+2- Criar uma branch com nome: "adicionar-imagem"
+3- Fazer upload do arquivo de imagem
+  3.1 - A mensagem do commit deve ser: "Imagem adicionada"
+  3.2 - O commit deve ser na branch criada anteriormente
+4- Criar um pull request com base main e compare da branch criada anteriormente
+5- Fazer e confirmar merge
+6- Deletar branch criada
+  
