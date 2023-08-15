@@ -24,9 +24,9 @@ B) Alterar o título dentro da tag <h1>
 C) Alterar o parágrafo dentro da tag <p>
 D) Alterar o link dentro da tag <a>
 
-E) Alterar a cor de fundo no rgb do background-color do body
-F) Alterar a cor do título no rgb do h1
-G) Alterar a cor do título no rgb do p
+E) Alterar a cor de fundo no rgb do background-color do body{}
+F) Alterar a cor do título no rgb do h1{}
+G) Alterar a cor do título no rgb do p{}
 
 I) Alterar o titulo do README
 J) Alterar o texto do README
@@ -51,10 +51,10 @@ O nome "ChatGPT" combina "Chat", referindo-se à sua funcionalidade
 de chatbot, e "GPT", que significa Generative Pre-trained Transformer, 
 um tipo de modelo de linguagem grande.
 D) https://chat.openai.com/auth/login
-E) (16,163,127)
-F) (247,247,247)
-G) (247,247,247)
-I) # Site inforativo sobre o ChatGPT
+E) (16, 163, 127)
+F) (247, 247, 247)
+G) (247, 247, 247)
+I) # Site informativo sobre o ChatGPT
 J) Criado durante a oficina de GitHub da Jornada do Acadêmica - ADS
 K) 
 Nome própio - https://github.com/usuario-git
@@ -70,10 +70,10 @@ incluindo transmissões de competições de esportes
 eletrônicos. Além disso, oferece transmissões de música, 
 conteúdo criativo e mais recentemente, streams "na vida real".
 D) https://www.twitch.tv/
-E) (92 22 197)
-F) (255,55,555)
-G) (255,55,555)
-I) # Site inforativo sobre a Twitch
+E) (92, 22, 197)
+F) (255, 255, 255)
+G) (255, 255, 255)
+I) # Site informativo sobre a Twitch
 J) Criado durante a oficina de GitHub da Jornada do Acadêmica - ADS
 K) 
 Nome própio - https://github.com/usuario-git
